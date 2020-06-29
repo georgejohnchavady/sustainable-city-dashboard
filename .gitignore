@@ -1,0 +1,6 @@
+.DS_STORE
+venv/
+.gitignore/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
